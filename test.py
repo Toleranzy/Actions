@@ -1,1 +1,1 @@
-print('Github Actions is awesome!')
+print("GitHub Actions is awesome!")
